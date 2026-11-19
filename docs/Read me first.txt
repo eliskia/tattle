@@ -1,0 +1,24 @@
+TATTLE
+A menu bar app that shows what is running on your Mac out of sight.
+
+TO INSTALL
+1. Drag Tattle onto the Applications folder in this window.
+2. Open Tattle from your Applications folder.
+
+macOS WILL WARN YOU THE FIRST TIME
+Tattle is not signed with a paid Apple developer account, so macOS will
+say it could not verify the app. To allow it:
+1. Try to open Tattle once and dismiss the warning.
+2. Open System Settings > Privacy & Security, scroll down, and click
+   "Open Anyway" next to the message about Tattle.
+3. Confirm with your password or Touch ID.
+Only do this if you trust the person who gave you this app.
+
+THEN
+Click the eye icon in your menu bar. A blue card explains two optional
+permissions (Full Disk Access and Accessibility) that let Tattle see more.
+Tattle never connects to the internet; everything stays on your Mac.
+
+TO REMOVE
+Quit Tattle from its gear menu, drag it to the Trash, and delete the
+folder  ~/Library/Application Support/Tattle
